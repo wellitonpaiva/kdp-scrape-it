@@ -1,1 +1,1 @@
-rootProject.name = ".kdp-scrape-it"
+rootProject.name = "kdp-scrape-it"
