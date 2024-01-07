@@ -1,4 +1,4 @@
-package 
+package scrapeit
 
 class ApplicationTest {
 }
