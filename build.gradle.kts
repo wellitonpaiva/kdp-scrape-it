@@ -33,6 +33,8 @@ dependencies {
     implementation("io.ktor:ktor-server-content-negotiation:$ktor_version")
     implementation("io.ktor:ktor-serialization-kotlinx-json:$ktor_version")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:$coroutines_version")
+    implementation("org.postgresql:postgresql:42.7.1")
+    implementation("org.flywaydb:flyway-database-postgresql:10.4.1")
     implementation("it.skrape:skrapeit:$skrape_version")
     testImplementation("org.jetbrains.kotlin:kotlin-test-junit:$kotlin_version")
 }
